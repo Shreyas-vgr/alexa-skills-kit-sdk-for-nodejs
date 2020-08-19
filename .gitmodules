@@ -1,0 +1,3 @@
+[submodule "ask-sdk-controls"]
+	path = ask-sdk-controls
+	url = git@github.com:Shreyas-vgr/ask-sdk-controls.git
